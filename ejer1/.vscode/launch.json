@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SumResDivMult",
+            "request": "launch",
+            "mainClass": "SumResDivMult",
+            "projectName": "ejer1_45e21244"
+        },
+        {
+            "type": "java",
+            "name": "Launch numSuerte",
+            "request": "launch",
+            "mainClass": "numSuerte",
+            "projectName": "ejer1_45e21244"
+        },
+        {
+            "type": "java",
+            "name": "Launch AprbRprb",
+            "request": "launch",
+            "mainClass": "AprbRprb",
+            "projectName": "ejer1_45e21244"
+        },
+        {
+            "type": "java",
+            "name": "Launch AprobReprob",
+            "request": "launch",
+            "mainClass": "AprobReprob",
+            "projectName": "ejer1_45e21244"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumRestDivMult",
+            "request": "launch",
+            "mainClass": "SumRestDivMult",
+            "projectName": "ejer1_45e21244"
+        },
+        {
+            "type": "java",
+            "name": "Launch DobleTriple",
+            "request": "launch",
+            "mainClass": "DobleTriple",
+            "projectName": "ejer1_45e21244"
+        },
+        {
+            "type": "java",
+            "name": "Launch PesoAlturaSexo",
+            "request": "launch",
+            "mainClass": "PesoAlturaSexo",
+            "projectName": "ejer1_45e21244"
+        },
+        {
+            "type": "java",
+            "name": "Launch u1ejer1",
+            "request": "launch",
+            "mainClass": "u1ejer1",
+            "projectName": "ejer1_45e21244"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "ejer1_45e21244"
+        }
+    ]
+}
